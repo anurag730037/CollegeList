@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CollegeList/static/css/main.4b502742.css",
+    "main.js": "/CollegeList/static/js/main.d657e627.js",
+    "static/js/453.be404d21.chunk.js": "/CollegeList/static/js/453.be404d21.chunk.js",
+    "static/media/logo.svg": "/CollegeList/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CollegeList/index.html",
+    "main.4b502742.css.map": "/CollegeList/static/css/main.4b502742.css.map",
+    "main.d657e627.js.map": "/CollegeList/static/js/main.d657e627.js.map",
+    "453.be404d21.chunk.js.map": "/CollegeList/static/js/453.be404d21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b502742.css",
+    "static/js/main.d657e627.js"
+  ]
+}
